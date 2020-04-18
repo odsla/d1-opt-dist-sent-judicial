@@ -34,5 +34,3 @@ Los datos se encuentran acá junto con un glosario de los campos.
 - Para la gestión del proyecto usaremos GitHub.
 - Trabajaremos en un canal de slack para mantenernos en contacto.
 
-Si no pudiste participar de este desafío, no te preocupes, cada 15 días estaremos lanzando nuevos desafíos.
-
