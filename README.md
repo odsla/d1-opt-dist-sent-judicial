@@ -7,7 +7,7 @@ Directores: Juez Pablo Casas y Dra. Yasmín Quiroga
 Fecha de Inicio: 17-03-2020
 Fecha de finalización: fines de mayo.
 
-Introducción
+## Introducción
 
 En la justicia todos los juzgados tienen igual cantidad de personal y recursos. Las distintas causas se asignan a los juzgados de acuerdo al lugar en el que ocurren (criterio territorial) y el momento en que ocurren (temporal). A este fin, la justicia divide la ciudad en zonas. Sin embargo, la asignación de causas no es proporcional, juzgados en zonas más conflictivas reciben mucha más carga de trabajo que otros, esto se ve agravado por la distribución equitativa de los recursos humanos.
 El Desafío
