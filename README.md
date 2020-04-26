@@ -24,7 +24,7 @@ Los participantes podrán trabajar con los datos brindados y cualquier otro que 
 
 El sistema judicial de la ciudad cuenta con un sistema de expedientes electrónicos que permite el seguimiento de cada causa. 
 
-Los datos se encuentran acá junto con un glosario de los campos.
+Los datos se encuentran en este repositorio junto con un glosario de los campos.
 
 ## Detalles
 
