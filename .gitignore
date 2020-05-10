@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Columnas Geo/CPA/cpa_csv/alturas.csv
